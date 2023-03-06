@@ -1,18 +1,6 @@
-# Coursera Clone <img src="https://img.shields.io/github/stars/ayush-lab/Coursera-Clone?style=social" alt="star repo" />
+# PROJECT 101
 
-<p float="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" width="100" /> 
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" width="100" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" width="100" />
-  	
-</p>
-
-## Fully responsive single page application made using MERN Stack! :blue_heart:
+##  BY AMOGH RAJ GUTTAL
 
 ### TECH USED
   -   React
@@ -158,14 +146,3 @@ You can test the backend, express endpoints using command ( npm test )
 ![alt text](https://raw.githubusercontent.com/ayush-lab/Coursera-Clone/main/Front-end/src/assets/TeacherUploadCourse.png)
 
 
-#### Teacher Uploading Videos
-![alt text](https://raw.githubusercontent.com/ayush-lab/Coursera-Clone/main/master/Front-end/src/assets/uploadshelp.png)
-
----
-### Responsive Designs
-#### Mobile Design Authentication
-![alt text](https://raw.githubusercontent.com/ayush-lab/Coursera-Clone/main/Front-end/src/assets/mobileLogin.png)
-
- 
-#### Mobile Design CoursePage
-![alt text](https://raw.githubusercontent.com/ayush-lab/Coursera-Clone/main/Front-end/src/assets/mobilecourse.png)
