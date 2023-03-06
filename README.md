@@ -146,18 +146,6 @@ You can test the backend, express endpoints using command ( npm test )
 ![alt text](https://raw.githubusercontent.com/ayush-lab/Coursera-Clone/main/Front-end/src/assets/TeacherUploadCourse.png)
 
 
-#### Teacher Uploading Videos
-![alt text](https://raw.githubusercontent.com/ayush-lab/Coursera-Clone/main/master/Front-end/src/assets/uploadshelp.png)
-
----
-### Responsive Designs
-#### Mobile Design Authentication
-![alt text](https://raw.githubusercontent.com/ayush-lab/Coursera-Clone/main/Front-end/src/assets/mobileLogin.png)
-
- 
-#### Mobile Design CoursePage
-![alt text](https://raw.githubusercontent.com/ayush-lab/Coursera-Clone/main/Front-end/src/assets/mobilecourse.png)
-
 
 
 
