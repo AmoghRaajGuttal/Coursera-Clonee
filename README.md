@@ -1,6 +1,6 @@
 
 
-## Project 101 
+## Project 101 by AMOGH RAJ GUTTAL 
 
 ### TECH USED
   -   React
