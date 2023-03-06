@@ -42,9 +42,6 @@ For Backend, go to the backend folder (cd Backend) and run
     - REDIS_PASSWORD = "" 
     - REDIS_PORT = ""
 
-  ### Note: Make sure the .env files variables matches with that of the config files like the image below.
-  
-  ![env files variables](https://raw.githubusercontent.com/ayush-lab/Coursera-Clone/main/Front-end/src/assets/env%20variables.png)
 
 
 For Frontend, go to the frontend folder (cd Front-end) and run
@@ -97,15 +94,6 @@ You can test the backend, express endpoints using command ( npm test )
 - [x] Teacher can delete their course
 - [x] Teacher can edit their course
 
-
----
-### Responsive Designs
-#### Mobile Design Authentication
-![alt text](https://raw.githubusercontent.com/ayush-lab/Coursera-Clone/main/Front-end/src/assets/mobileLogin.png)
-
- 
-#### Mobile Design CoursePage
-![alt text](https://raw.githubusercontent.com/ayush-lab/Coursera-Clone/main/Front-end/src/assets/mobilecourse.png)
 
 
 
